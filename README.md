@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm a passionate front-end developer specializing 
 
 I’m currently involved in several exciting projects, including:
 - 🌐 A modern web app for scheduling appointments in automotive repair shops using **React.js** and **Node.js**.
+- 🌐 I'm currently working on a web application called **Scarpin**. It’s a dynamic platform designed to streamline and simplify specific workflows for users. The focus is on creating a user-friendly, responsive, and efficient interface, using **React.js** for the front-end and **Tailwind Css**
 - 📊 A dynamic dashboard with interactive charts and data visualization using **React.js**.
 - 🔧 Exploring advanced **React animations** and scroll-triggered effects.
 
