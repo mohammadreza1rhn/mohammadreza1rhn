@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate front-end developer specializing 
 
 I’m currently involved in several exciting projects, including:
 - 🌐 A modern web app for scheduling appointments in automotive repair shops using **React.js** and **Node.js**.
-- 📊 A dynamic dashboard with interactive charts and data visualization.
+- 📊 A dynamic dashboard with interactive charts and data visualization using **React.js**.
 - 🔧 Exploring advanced **React animations** and scroll-triggered effects.
 
 ---
